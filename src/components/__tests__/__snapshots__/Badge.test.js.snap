@@ -12,7 +12,7 @@ exports[`renders badge in bottom left corner 1`] = `
           "position": "absolute",
         },
         Object {
-          "backgroundColor": "#f44336",
+          "backgroundColor": "#6200ee",
           "borderRadius": 6,
           "bottom": -6,
           "left": -6,
@@ -45,6 +45,7 @@ exports[`renders badge in bottom left corner 1`] = `
             "accent": "#03dac4",
             "backdrop": "rgba(0, 0, 0, 0.5)",
             "background": "#f6f6f6",
+            "badge": "#6200ee",
             "disabled": "rgba(0, 0, 0, 0.26)",
             "error": "#B00020",
             "placeholder": "rgba(0, 0, 0, 0.54)",
@@ -81,7 +82,7 @@ exports[`renders badge in bottom right corner 1`] = `
           "position": "absolute",
         },
         Object {
-          "backgroundColor": "#f44336",
+          "backgroundColor": "#6200ee",
           "borderRadius": 6,
           "bottom": -6,
           "paddingHorizontal": 6,
@@ -114,6 +115,7 @@ exports[`renders badge in bottom right corner 1`] = `
             "accent": "#03dac4",
             "backdrop": "rgba(0, 0, 0, 0.5)",
             "background": "#f6f6f6",
+            "badge": "#6200ee",
             "disabled": "rgba(0, 0, 0, 0.26)",
             "error": "#B00020",
             "placeholder": "rgba(0, 0, 0, 0.54)",
@@ -183,6 +185,7 @@ exports[`renders badge in different color 1`] = `
             "accent": "#03dac4",
             "backdrop": "rgba(0, 0, 0, 0.5)",
             "background": "#f6f6f6",
+            "badge": "#6200ee",
             "disabled": "rgba(0, 0, 0, 0.26)",
             "error": "#B00020",
             "placeholder": "rgba(0, 0, 0, 0.54)",
@@ -200,7 +203,9 @@ exports[`renders badge in different color 1`] = `
           "roundness": 4,
         }
       }
-    />
+    >
+      3
+    </Text>
   </View>
 </View>
 `;
@@ -217,7 +222,7 @@ exports[`renders badge in different size 1`] = `
           "position": "absolute",
         },
         Object {
-          "backgroundColor": "#f44336",
+          "backgroundColor": "#6200ee",
           "borderRadius": 6,
           "paddingHorizontal": 6,
           "right": -6,
@@ -250,6 +255,7 @@ exports[`renders badge in different size 1`] = `
             "accent": "#03dac4",
             "backdrop": "rgba(0, 0, 0, 0.5)",
             "background": "#f6f6f6",
+            "badge": "#6200ee",
             "disabled": "rgba(0, 0, 0, 0.26)",
             "error": "#B00020",
             "placeholder": "rgba(0, 0, 0, 0.54)",
@@ -286,7 +292,7 @@ exports[`renders badge in top left corner 1`] = `
           "position": "absolute",
         },
         Object {
-          "backgroundColor": "#f44336",
+          "backgroundColor": "#6200ee",
           "borderRadius": 6,
           "left": -6,
           "paddingHorizontal": 6,
@@ -319,6 +325,7 @@ exports[`renders badge in top left corner 1`] = `
             "accent": "#03dac4",
             "backdrop": "rgba(0, 0, 0, 0.5)",
             "background": "#f6f6f6",
+            "badge": "#6200ee",
             "disabled": "rgba(0, 0, 0, 0.26)",
             "error": "#B00020",
             "placeholder": "rgba(0, 0, 0, 0.54)",
@@ -355,7 +362,7 @@ exports[`renders badge in top right corner by default 1`] = `
           "position": "absolute",
         },
         Object {
-          "backgroundColor": "#f44336",
+          "backgroundColor": "#6200ee",
           "borderRadius": 6,
           "paddingHorizontal": 6,
           "right": -6,
@@ -388,6 +395,7 @@ exports[`renders badge in top right corner by default 1`] = `
             "accent": "#03dac4",
             "backdrop": "rgba(0, 0, 0, 0.5)",
             "background": "#f6f6f6",
+            "badge": "#6200ee",
             "disabled": "rgba(0, 0, 0, 0.26)",
             "error": "#B00020",
             "placeholder": "rgba(0, 0, 0, 0.54)",
